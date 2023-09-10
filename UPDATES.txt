@@ -1,0 +1,6 @@
+*VERISON 0.1
+
+*ADDED A WARNING AND CREDITS TEXT
+
+
+And thats it
